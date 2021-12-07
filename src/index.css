@@ -4,3 +4,7 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+#Timer {
+	font-family: 'Metamorphous', cursive;
+}
